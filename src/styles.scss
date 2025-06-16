@@ -1,7 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
 
 
+:root {
+    --primary: #70663e;
+}
 
-body,h1 {
-    font-family: "Oregano", cursive;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Oregano", "EB Garamond", cursive;
+    color: #70663e !important;
+}
+
+p {
+    font-family: "EB Garamond", cursive;
 }
